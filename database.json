@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Funny Tone",
+    "artist": "SONAM TMG01 ",
+    "category": "funny",
+    "tags": [],
+    "duration": "0:17",
+    "downloads": 0,
+    "likes": 0,
+    "comments": [],
+    "createdAt": 1768161382584,
+    "id": "1768161382584-ReelAudio-23969.mp3",
+    "url": "https://raw.githubusercontent.com/Sonamtmg01/RinZo-Store/main/ringtones/1768161382584-ReelAudio-23969.mp3",
+    "filePath": "ringtones/1768161382584-ReelAudio-23969.mp3"
+  },
+  {
+    "id": "1768074903186",
+    "title": "Soltini Nepali Ringtone",
+    "artist": "SONAM TMG01",
+    "category": "nepali",
+    "duration": "--:--",
+    "url": "https://raw.githubusercontent.com/Sonamtmg01/Ringtone-Store/main/ringtones/soltini.mp3",
+    "downloads": 1540,
+    "likes": 45,
+    "tags": [
+      "nepali",
+      "hit"
+    ],
+    "comments": [],
+    "createdAt": 1768074903186
+  },
+  {
+    "id": "1767988503186",
+    "title": "Ubhu - Tamang Selo",
+    "artist": "SONAM TMG01",
+    "category": "nepali",
+    "duration": "--:--",
+    "url": "https://raw.githubusercontent.com/Sonamtmg01/Ringtone-Store/main/ringtones/ubhu.mp3",
+    "downloads": 890,
+    "likes": 32,
+    "tags": [
+      "selo",
+      "cultural"
+    ],
+    "comments": [
+      {
+        "id": "c1",
+        "userName": "Guest",
+        "text": "Love this vibe!",
+        "timestamp": 1768161303186
+      }
+    ],
+    "createdAt": 1767988503186
+  }
+]
